@@ -1,0 +1,21 @@
+{
+  "name": "toponote-app",
+  "version": "0.0.0",
+  "private": true,
+  "description": "TopoNote V-00 - Topografia de Mina, Picada, Estrada, Drone & Frota",
+  "scripts": {
+    "sync": "npx cap sync",
+    "android": "npx cap open android",
+    "ios": "npx cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/filesystem": "^6.0.2",
+    "@capacitor/geolocation": "^6.1.0",
+    "@capacitor/ios": "^6.2.0",
+    "@capacitor/share": "^6.0.3",
+    "@capacitor/status-bar": "^6.0.2"
+  }
+}

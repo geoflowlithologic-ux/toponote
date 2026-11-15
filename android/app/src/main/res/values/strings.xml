@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TopoNote</string>
+    <string name="title_activity_main">TopoNote</string>
+    <string name="package_name">com.toponote.app</string>
+    <string name="custom_url_scheme">com.toponote.app</string>
+</resources>
